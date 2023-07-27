@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+
+  .content-container {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column; /* Organiser le contenu verticalement */
+    text-align: center;
+    margin-bottom: 60px; /* Espace de 3 lignes (60px si la hauteur de ligne est de 20px) */
+  }
+
+  .content-container h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+
+  .button-link {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #228B22; 
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .button-link:hover {
+    background-color: #2E8B57; 
+  }
+
+  .button-link:active {
+    background-color: #1C703D; 
+  }
+
+  .button-link:before {
+    content: "\f1bb"; 
+    font-family: "Font Awesome 5 Free"; 
+    margin-right: 8px;
+  }
+</style>
+
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    integrity="sha512-SHsAXYFZ3W+k2Z5JeRYOfiRL5G4C1oMO1p1m+EOOkYthoGKudHE07M/n4MqqIZs9e1C9wGtUH9N2+g63LJkMQ=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+
+<!-- Contenu centré -->
+<div class="content-container">
+  <h1 class="display-4">Créez et Imprimez vos Workflows en toute simplicité</h1>
+  <!-- Utilisation du bouton -->
+  <p>
+    <a href="/Designer/Index" class="button-link">Open designer here</a>
+  </p>
+</div>
+

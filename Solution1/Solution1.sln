@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowLib", "WorkflowLib\WorkflowLib.csproj", "{89AF4122-6237-4A48-B764-E310B1123755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerApplication", "DesignerApplication\DesignerApplication.csproj", "{C23FB6C0-18C6-463D-A847-6EC5A47A816C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89AF4122-6237-4A48-B764-E310B1123755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AF4122-6237-4A48-B764-E310B1123755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AF4122-6237-4A48-B764-E310B1123755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AF4122-6237-4A48-B764-E310B1123755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23FB6C0-18C6-463D-A847-6EC5A47A816C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23FB6C0-18C6-463D-A847-6EC5A47A816C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23FB6C0-18C6-463D-A847-6EC5A47A816C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23FB6C0-18C6-463D-A847-6EC5A47A816C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

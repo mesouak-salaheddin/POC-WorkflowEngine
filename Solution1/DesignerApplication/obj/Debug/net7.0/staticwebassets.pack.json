@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DesignerApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DesignerApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\css\\workflowdesigner.min.css",
+      "PackagePath": "staticwebassets\\css\\workflowdesigner.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\js\\workflowdesigner.min.js",
+      "PackagePath": "staticwebassets\\js\\workflowdesigner.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\activity.html",
+      "PackagePath": "staticwebassets\\templates\\activity.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\activitygroup.html",
+      "PackagePath": "staticwebassets\\templates\\activitygroup.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\activityinline.html",
+      "PackagePath": "staticwebassets\\templates\\activityinline.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\activitytoolbar.html",
+      "PackagePath": "staticwebassets\\templates\\activitytoolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\actors.html",
+      "PackagePath": "staticwebassets\\templates\\actors.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\assignments.html",
+      "PackagePath": "staticwebassets\\templates\\assignments.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\codeactions.html",
+      "PackagePath": "staticwebassets\\templates\\codeactions.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\codeform.html",
+      "PackagePath": "staticwebassets\\templates\\codeform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\commandParameters.html",
+      "PackagePath": "staticwebassets\\templates\\commandParameters.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\commands.html",
+      "PackagePath": "staticwebassets\\templates\\commands.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\comment.html",
+      "PackagePath": "staticwebassets\\templates\\comment.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\commenttoolbar.html",
+      "PackagePath": "staticwebassets\\templates\\commenttoolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\confirmDialog.html",
+      "PackagePath": "staticwebassets\\templates\\confirmDialog.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\assignmentplugin\\assignmentchangeform.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\assignmentplugin\\assignmentchangeform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\assignmentplugin\\assignmentcreateform.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\assignmentplugin\\assignmentcreateform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\assignmentplugin\\assignmentshavestatus.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\assignmentplugin\\assignmentshavestatus.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\basicsplugin\\createprocessform.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\basicsplugin\\createprocessform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\basicsplugin\\httprequestform.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\basicsplugin\\httprequestform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\basicsplugin\\sendemailform.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\basicsplugin\\sendemailform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\loopsplugin\\startloopforeachform.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\loopsplugin\\startloopforeachform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\customforms\\loopsplugin\\startloopforform.html",
+      "PackagePath": "staticwebassets\\templates\\customforms\\loopsplugin\\startloopforform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\decision.html",
+      "PackagePath": "staticwebassets\\templates\\decision.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\decisiontable.html",
+      "PackagePath": "staticwebassets\\templates\\decisiontable.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\dropdownValues.html",
+      "PackagePath": "staticwebassets\\templates\\dropdownValues.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\elements.html",
+      "PackagePath": "staticwebassets\\templates\\elements.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\elements\\activity.svg",
+      "PackagePath": "staticwebassets\\templates\\elements\\activity.svg"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\elements\\comment.svg",
+      "PackagePath": "staticwebassets\\templates\\elements\\comment.svg"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\elements\\decision.svg",
+      "PackagePath": "staticwebassets\\templates\\elements\\decision.svg"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\elements\\decisiontable.svg",
+      "PackagePath": "staticwebassets\\templates\\elements\\decisiontable.svg"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\elements\\transition.svg",
+      "PackagePath": "staticwebassets\\templates\\elements\\transition.svg"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\expressionform.html",
+      "PackagePath": "staticwebassets\\templates\\expressionform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\jsonform.html",
+      "PackagePath": "staticwebassets\\templates\\jsonform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\legend.html",
+      "PackagePath": "staticwebassets\\templates\\legend.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library.json",
+      "PackagePath": "staticwebassets\\templates\\library.json"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\AutoTransitions.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\AutoTransitions.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\DirectAndReverseTransitionsWithApprovalAndDeny.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\DirectAndReverseTransitionsWithApprovalAndDeny.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\DirectTransitionsWithApproval.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\DirectTransitionsWithApproval.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\DirectoryCompress.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\DirectoryCompress.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ExpressionConditionOtherwise.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ExpressionConditionOtherwise.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ExpressionOtherwise.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ExpressionOtherwise.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\FileWriteRead.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\FileWriteRead.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\HTTPRequest.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\HTTPRequest.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\LoopForDateTime.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\LoopForDateTime.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\LoopForInt.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\LoopForInt.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\LoopForeach.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\LoopForeach.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\LoopForeachFromParameter.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\LoopForeachFromParameter.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ParallelApprovalWithoutBranches.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ParallelApprovalWithoutBranches.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ParallelProcessesWithWaiting.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ParallelProcessesWithWaiting.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ParallelProcessesWithoutWaiting.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ParallelProcessesWithoutWaiting.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ParameterExpressionConditionOtherwise.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ParameterExpressionConditionOtherwise.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ParameterExpressionOtherwise.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ParameterExpressionOtherwise.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\ParametersAndExpressions.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\ParametersAndExpressions.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\library\\Timer.xml",
+      "PackagePath": "staticwebassets\\templates\\library\\Timer.xml"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\localization.html",
+      "PackagePath": "staticwebassets\\templates\\localization.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\logs.html",
+      "PackagePath": "staticwebassets\\templates\\logs.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\parameters.html",
+      "PackagePath": "staticwebassets\\templates\\parameters.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\parametersform.html",
+      "PackagePath": "staticwebassets\\templates\\parametersform.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\processinfo.html",
+      "PackagePath": "staticwebassets\\templates\\processinfo.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\timers.html",
+      "PackagePath": "staticwebassets\\templates\\timers.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\toolbar.html",
+      "PackagePath": "staticwebassets\\templates\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\toolbarinfo.html",
+      "PackagePath": "staticwebassets\\templates\\toolbarinfo.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\toolbarside.html",
+      "PackagePath": "staticwebassets\\templates\\toolbarside.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\transition.html",
+      "PackagePath": "staticwebassets\\templates\\transition.html"
+    },
+    {
+      "Id": "C:\\Users\\SalaheddinM\\RiderProjects\\Solution1\\DesignerApplication\\wwwroot\\templates\\transitiontoolbar.html",
+      "PackagePath": "staticwebassets\\templates\\transitiontoolbar.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DesignerApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DesignerApplication.props",
+      "PackagePath": "build\\DesignerApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DesignerApplication.props",
+      "PackagePath": "buildMultiTargeting\\DesignerApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DesignerApplication.props",
+      "PackagePath": "buildTransitive\\DesignerApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

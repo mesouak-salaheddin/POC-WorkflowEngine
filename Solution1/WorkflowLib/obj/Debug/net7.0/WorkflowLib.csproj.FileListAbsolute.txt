@@ -1,0 +1,12 @@
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\bin\Debug\net7.0\WorkflowLib.deps.json
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\bin\Debug\net7.0\WorkflowLib.dll
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\bin\Debug\net7.0\WorkflowLib.pdb
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\WorkflowLib.csproj.AssemblyReference.cache
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\WorkflowLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\WorkflowLib.AssemblyInfoInputs.cache
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\WorkflowLib.AssemblyInfo.cs
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\WorkflowLib.csproj.CoreCompileInputs.cache
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\WorkflowLib.dll
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\refint\WorkflowLib.dll
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\WorkflowLib.pdb
+C:\Users\SalaheddinM\RiderProjects\Solution1\WorkflowLib\obj\Debug\net7.0\ref\WorkflowLib.dll
